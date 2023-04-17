@@ -1,6 +1,6 @@
 spring:
-  application:
-    name: confiq-dev
+ application:
+   name: confiq-dev
 eureka:
   instance:
     ip-address: true
