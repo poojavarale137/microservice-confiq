@@ -1,6 +1,6 @@
 spring:
   application:
-    name: DEFAULT-PROD-SERVICE
+    name: DEFAULT-PRODSERVICE
 eureka:
   instance:
     ip-address: true
