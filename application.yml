@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: DEFAULT-SERVICE
+
 eureka:
   instance:
     ip-address: true
