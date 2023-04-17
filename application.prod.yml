@@ -1,7 +1,6 @@
 spring:
   application:
-    name: confiq-prod
-    
+    name: Prod-SERVICE
 eureka:
   instance:
     ip-address: true
