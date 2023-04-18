@@ -1,6 +1,7 @@
 spring:
   application:
     name: DEFAULT-DEV-SERVICE
+    
 eureka:
   instance:
     ip-address: true
